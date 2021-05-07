@@ -1,0 +1,2 @@
+C:\Users\何jd\source\repos\WordCount\Debug\WordCount.exe
+C:\Users\何jd\source\repos\WordCount\Debug\WordCount.pdb
